@@ -14,7 +14,7 @@
 
 ## 📸 End-to-End Project Workflow
 
-![AI Career Copilot End-to-End Workflow](src/assets/end_to_end_flow.jpg)
+![AI Career Copilot End-to-End Flow Diagram](./end_to_end_flow.jpg)
 
 ### 4-Step Pipeline Breakdown:
 1. **STEP 1 — Input & PDF Parsing**: Upload candidate resume PDF or paste plain text alongside target Job Title, Company Name, and Job Description.
@@ -26,7 +26,7 @@
 
 ## 📐 System Architecture Diagram
 
-![AI Career Copilot System Architecture](src/assets/architecture_diagram.jpg)
+![AI Career Copilot System Architecture](./architecture_diagram.jpg)
 
 ```mermaid
 graph LR
